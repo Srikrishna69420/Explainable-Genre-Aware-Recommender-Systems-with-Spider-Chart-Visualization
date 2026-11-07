@@ -51,4 +51,4 @@ The scoring weights (`alpha`, `beta`, and `gamma`) retain the original default v
 
 ## Reproducibility and limitations
 
-The original scripts and data are not removed or overwritten. The modular package has not been benchmarked against the original script; use the same data and inputs when comparing outputs. Plotting requires a graphical display or configured Matplotlib backend.
+The original scripts and data are not removed or overwritten. The modular package has not been benchmarked against the original script; use the same data and inputs when comparing outputs. Plotting requires a graphical display or configured Matplotlib backend..
